@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there 👋 I'm Maddi 
 
-<!--
-**MadalinaSfirlog/MadalinaSfirlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ A little about me ✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 since January 2023 I've started to specialize in the Data Analysis field as I truly believe that having analytical skills is crucial 
+
+📉 I have a Bachelor Degree in Business Economics 
+
+🌱 I've done some statistics and Sql at University but I self-taught at a deeper level SQL, Tableau, Power BI, Excel and much more I'm planning to do
+
+📫 How to find me: LinkedIn
+https://www.linkedin.com/in/madalina-sfirlog-06a106248/
+
+
+
+
+💡Skills💡:
+
+Microsoft SQL Server
+Tableau
+Microsoft Excel
+SQL 
+POWER BI 
+R
+
+
+📚Courses and Certifications📚
+
+Google Data Analytics Certification
+Excel Skills for Business Specialization
+
