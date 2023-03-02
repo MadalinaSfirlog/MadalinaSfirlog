@@ -15,6 +15,9 @@ https://www.linkedin.com/in/madalina-sfirlog-06a106248/
 
 
 
+
+
+
 💡Skills💡:
 
 Microsoft SQL Server
@@ -23,6 +26,9 @@ Microsoft Excel
 SQL 
 POWER BI 
 R
+
+
+
 
 
 📚Courses and Certifications📚
