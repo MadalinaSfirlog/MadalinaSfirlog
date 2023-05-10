@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Maddi 
+### Hi there 👋 I'm Madalina 
 
 ✨ A little about me ✨
 
