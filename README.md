@@ -3,7 +3,7 @@
 ✨ A little about me ✨
 
 
-👀 since January 2023 I've started to specialize in the Data Analysis and Data Engineering field as I truly believe that having analytical skills is crucial 
+👀 since January 2023 I've started I've started my journey into the Data World as I truly believe that having analytical skills is crucial 
 
 📉 I have a Bachelor Degree in Business Economics 
 
